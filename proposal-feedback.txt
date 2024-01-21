@@ -1,0 +1,38 @@
+
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Sebastian Cruz
+Keyboard Warrior project
+===============================
+
+Proposal Document:
+------------------
+   Nice work on the document.  The description is wonderful, giving the
+   reader a good idea of what the game is all about, and what the ultimate
+   focus is.  Typing tutor games are so much more engaging when they are
+   actual games, and having placed TypeRacer a few times I can see what
+   a boost it will give typists.  Having the game automatically adjust to
+   the typist's ability will also help prevent the user being discouraged.
+
+   The justification section is also well done, specifying the focus for
+   the game and how it will use some of the concepts you have learned during
+   your school experience.  Using Unity will create a wonderful game
+   experience, much better than a simple browser-based game [IMHO].  Your
+   self-reflection is evident in the way you express that the project will
+   make good use of your skills and confidence, and that it won't be a
+   'stretch' for you to finish in one semester.
+
+Proposal Presentation:
+----------------------
+   Good job on the presentation!  The slides look great, your justification
+   of both the project goals and the applicability to the course are well-
+   thought-out and clear.  This is a very useful project!  Your presentation
+   skills were very professional and I like that you are providing fun as
+   well as learning.  I also like the way you are using your passion to make
+   something that is useful for others.
+
+=============================================================================
+your score:  5% out of 5% which is an A-plus
+
+Great job on this presentation and proposal and great start to the semester!
