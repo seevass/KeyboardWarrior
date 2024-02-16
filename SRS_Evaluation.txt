@@ -1,0 +1,43 @@
+
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Sebastian Cruz
+Keyboard Warrior project
+===============================
+
+Software Requirements Specification Document:
+---------------------------------------------
+-- Introduction Section
+   This section is great!  The diagram adds a lot.  Good work!
+
+-- Functional Requirements
+   These are all good and you seem to have put a lot of thought into them.
+   The only comment is a general one to all sections: if you find yourself
+   making "such as" statements in your requirements, those should become
+   "will" statements that are attached to the shall statements you take them
+   out of.  For example:
+
+   IS:
+   5.2.1.3  The GUI shall show popup information such as player damage dealt
+            and received and enemy damage dealt and received
+
+   SHOULD BE:
+   5.2.1.3  The GUI shall show popup information to the player.
+            Pop up information will include but not be limited to player
+            damage dealt, player damage received, enemy damage dealt, and
+            enemy damage received.
+
+-- Performance Requirements
+   Same comment as above for this section.
+
+-- Environment Requirements
+   Same comment as above for this section.
+
+=============================================================================
+your score:  9% out of 10% which is an A-minus
+
+All in all, excellent and complete first effort!
+
+Make the changes as suggested above, including many more requirements for
+the second submission and you'll get the full 10% on this document.
