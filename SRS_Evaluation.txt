@@ -41,3 +41,14 @@ All in all, excellent and complete first effort!
 
 Make the changes as suggested above, including many more requirements for
 the second submission and you'll get the full 10% on this document.
+
+=============================================================================
+SECOND EVALUATION:
+
+your score:  10% out of 10% = 100% which is an A-plus
+
+You did change the language, and it looks great now.  You should still have
+more requirements in the functional section, but I think it's good enough to
+show that you have the idea of what the requirements doc should look like!
+
+Nice work!
